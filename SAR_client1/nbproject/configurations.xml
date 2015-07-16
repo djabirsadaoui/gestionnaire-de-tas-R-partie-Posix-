@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="89">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df root="C:/Users/djabir/Desktop/SAR_client" name="SAR_client">
+      <df name="include">
+        <df name="client">
+          <in>afficher_erreur.h</in>
+          <in>allouer.h</in>
+          <in>create_sockcontrol.h</in>
+          <in>demande_client.h</in>
+          <in>free_list.h</in>
+          <in>initialiser.h</in>
+          <in>malloc_list.h</in>
+          <in>pop.h</in>
+          <in>push.h</in>
+          <in>req_connexion.h</in>
+          <in>t_fonction.h</in>
+        </df>
+        <in>afficher_erreur.h</in>
+        <in>free_list.h</in>
+      </df>
+      <df name="src">
+        <df name="client">
+          <in>afficher_erreur.c</in>
+          <in>allouer.c</in>
+          <in>client.c</in>
+          <in>client1.c</in>
+          <in>client2.c</in>
+          <in>client3.c</in>
+          <in>create_sockcontrol.c</in>
+          <in>demande_client.c</in>
+          <in>free_list.c</in>
+          <in>initialiser.c</in>
+          <in>malloc_list.c</in>
+          <in>pop.c</in>
+          <in>push.c</in>
+          <in>req_connexion.c</in>
+          <in>t_fonction.c</in>
+        </df>
+        <in>afficher_erreur.c</in>
+        <in>allouer.c</in>
+        <in>client.c</in>
+        <in>client1.c</in>
+        <in>client2.c</in>
+        <in>create_sockcontrol.c</in>
+        <in>demande_client.c</in>
+        <in>free_list.c</in>
+        <in>initialiser.c</in>
+        <in>malloc_list.c</in>
+        <in>pop.c</in>
+        <in>push.c</in>
+        <in>req_connexion.c</in>
+        <in>t_fonction.c</in>
+      </df>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>C:/Users/djabir/Desktop/SAR_client/Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceFolderFilter>^(nbproject)$</sourceFolderFilter>
+  <sourceRootList>
+    <Elem>C:\Users\djabir\Desktop\SAR_client</Elem>
+  </sourceRootList>
+  <projectmakefile>C:/Users/djabir/Desktop/SAR_client/Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>false</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <codeAssistance>
+      </codeAssistance>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>C:/Users/djabir/Desktop/SAR_client</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f Makefile</buildCommand>
+          <cleanCommand>${MAKE} -f Makefile clean</cleanCommand>
+          <executablePath></executablePath>
+          <cTool>
+            <incDir>
+              <pElem></pElem>
+              <pElem>include</pElem>
+              <pElem>src/client</pElem>
+            </incDir>
+          </cTool>
+        </makeTool>
+      </makefileType>
+      <item path="C:/Users/djabir/Desktop/SAR_client/include/afficher_erreur.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/include/client/afficher_erreur.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/include/client/allouer.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/include/client/create_sockcontrol.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/include/client/demande_client.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/include/client/free_list.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/include/client/initialiser.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/include/client/malloc_list.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/include/client/pop.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/include/client/push.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/include/client/req_connexion.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/include/client/t_fonction.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/include/free_list.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/src/afficher_erreur.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/src/allouer.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/src/client.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/src/client/afficher_erreur.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/src/client/allouer.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/src/client/client.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/src/client/client1.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/src/client/client2.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/src/client/client3.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/src/client/create_sockcontrol.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/src/client/demande_client.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/src/client/free_list.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/src/client/initialiser.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/src/client/malloc_list.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/src/client/pop.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/src/client/push.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/src/client/req_connexion.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/src/client/t_fonction.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/src/client1.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/src/client2.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/src/create_sockcontrol.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/src/demande_client.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/src/free_list.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/src/initialiser.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/src/malloc_list.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/src/pop.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/src/push.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/src/req_connexion.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/djabir/Desktop/SAR_client/src/t_fonction.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

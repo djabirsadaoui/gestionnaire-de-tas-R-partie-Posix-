@@ -1,0 +1,1 @@
+void afficher_erreur(const char* msg);

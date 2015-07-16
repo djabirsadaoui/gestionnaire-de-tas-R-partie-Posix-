@@ -1,0 +1,1 @@
+struct fool *pop (struct fool *p_head);
